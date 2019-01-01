@@ -2,6 +2,10 @@ Product Name
 ---------------
 Modern Admin - Clean Bootstrap 4 Dashboard HTML Template
 
+Screenshot
+---------------
+https://github.com/asktoakhi/Modern-Admin-1.0/blob/master/modern-item-design.jpg
+
 
 Product Description
 -------------------
